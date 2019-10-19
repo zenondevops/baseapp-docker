@@ -1,0 +1,4 @@
+baseapp-back/node_modules/
+baseapp-front/node_modules/
+
+*.env
